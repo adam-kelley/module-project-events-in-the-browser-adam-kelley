@@ -39,7 +39,8 @@ Good luck!
 
 1. After successful installation **execute `npm start`** in your terminal.
 
-1. You will load the app in Chrome by **navigating the browser to `http://localhost:3003`**.
+1. You will load the app in Chrome by **navigating the browser to `
+`**.
 
 1. If you haven't already, install the [Eslint extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) for VSCode.
 
